@@ -1,0 +1,33 @@
+{
+	"Produk":[
+
+				{
+					"nama": "Colt L300",
+					"initial": "Colt%20L300%20Halfbox%20Alluminium",
+					"tipe": "Half Box Alluminium",
+					"dimensi" : "264 x 170 x 120",
+					"deskripsi":"Truk dengan setengah box terbuat dari alluminium sehingga antikarat dan lebih ringan. Dengan ukuran bodi yang relatif kecil dan ringan cocok untuk mengantar produk anda hingga pelosok desa.",
+					"id": 1,
+					"gambar": "https://i.ibb.co/KF1xXfv/colt-l300.png"
+				},
+				{
+					"nama": "FE74 S K",
+					"initial": "FE74%20S%20K%20Loadbak%20besi",
+					"tipe": "Loadbak Besi",
+					"dimensi": "460 x 200 x 60",
+					"deskripsi": "Truk dengan keseluruhan bak berbahan besi yang berkualitas, sehingga awet dan tahan lama. Bodi yang kokoh siap menjaga produk anda sampai ke tangan konsumen.",
+					"id":2,
+					"gambar": "https://i.ibb.co/XDzFDXm/FE-74-HD-Dump.png"
+				},
+				{
+					"nama": "FE74 S K",
+					"initial": "FE74%20S%20K%20Fullbox%20Alluminium",
+					"tipe": "Fullbox Alluminium",
+					"dimensi": "460 x 200 x 195",
+					"deskripsi": "Truk box dengan box keseluruhan berbahan alluminium sehigga antikarat dan lebih ringan. Dengan box yang tahan terhadap air dan terik matahari menjadikan produk awet dan tahan lama.",
+					"id": 3,
+					"gambar": "https://i.ibb.co/pWkKdMT/FE74-S-K.png"
+				}
+
+		]
+}

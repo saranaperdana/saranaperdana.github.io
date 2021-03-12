@@ -1,0 +1,127 @@
+{
+		"Produk":[
+					{
+						"nama":"fullboxbesi",
+						"judul":"Full Box Besi",
+						"gambar":"https://i.ibb.co/87dKS3F/full-box-besi.jpg",
+						"id":1,
+						"deskripsi":"Truk dengan keseluruhan box berbahan besi yang berkualitas, sehingga awet dan tahan lama. Box dapat melindungi produk yang anda kirim dari hujan dan terik matahari hingga sampai tujuan dengna selamat.",
+						"menu":
+							[
+								{"tipe":"  Light Truck 4rd","dimensi":"300 x 175 x 180"},
+								{"tipe":"  Light Truck 4rd Long","dimensi":"400 x 175 x 180"},
+								{"tipe":"  Light Truck 6rd FE74 HD K ","dimensi":"420 x 200 x 180"},
+								{"tipe":"  Light Truck 6rd FE74 S K ","dimensi":"460 x 200 x 195"},
+								{"tipe":"  Light Truck 6rd 74  L K ","dimensi":"570 x 200 x 200"}
+							]
+				},
+					{
+						"nama":"loadbakbesi",
+						"judul":"Loadbak Besi",
+						"gambar": "https://i.ibb.co/7tsvsR2/load-bak-besi.jpg",
+						"id":2,
+						"deskripsi":"Truk dengan keseluruhan bak berbahan besi yang berkualitas, sehingga awet dan tahan lama. Bodi yang kokoh siap menjaga produk anda sampai ke tangan konsumen.",
+						"menu":
+							[
+								{"tipe":"  Colt L300","dimensi":"240 x 170 x 50"},
+								{"tipe":"  Light Truck 4rd","dimensi":"300 x 175 x 50"},
+								{"tipe":"  Light Truck 4rd ( Bak Gas )","dimensi":"300 x 175 "},
+								{"tipe":"  Light Truck 4rd Long","dimensi":"400 x 175 x 50"},
+								{"tipe":"  Light Truck 6rd FE74 HD K","dimensi":"420 x 200 x 60"},
+								{"tipe":"  Light Truck 6rd FE74 HD K ( Bak Gas +Pipa )","dimensi":"420 x 200 x 120"},
+								{"tipe":"  Light Truck 6rd FE74 HD K ( Bak L angkut Semen )","dimensi":"420 x 200"},
+								{"tipe":"  Light Truck 6rd FE74 HD K ( Bak  ayam )","dimensi":"420 x 200 x 200"},
+								{"tipe":"  Light Truck 6rd FE74 S K ","dimensi":"460 x 200 x 60"},
+								{"tipe":"  Light Truck 6rd FE74 S K ( Bak Gas+Pipa )","dimensi":"460 x 200 x 120"},
+								{"tipe":"  Light Truck 6rd FE74 S K ( Bak L angkut Semen )","dimensi":"460 x 200"},
+								{"tipe":"  Light Truck 6rd FE74 S K ( Bak ayam )","dimensi":"460 x 200 x 200"}
+							]
+				},
+					{
+						"nama":"fullboxalluminium",
+						"judul":"Full Box Alluminium",
+						"gambar":"https://i.ibb.co/tJBb5mC/full-box-alluminium.jpg",
+						"id":3,
+						"deskripsi":"Truk box dengan box keseluruhan berbahan alluminium sehigga antikarat dan lebih ringan. Dengan box yang tahan terhadap air dan terik matahari menjadikan produk awet dan tahan lama.",
+						"menu":
+							[
+								{"tipe":"  D.Granmax  ","dimensi":"235 x 170 x 150"},
+								{"tipe":"  Colt L300","dimensi":"240 x 170 x 150"},
+								{"tipe":"  Light Truck 4 rd","dimensi":"300 x 175 x 180"},
+								{"tipe":"  Light Truck 4 rd Long","dimensi":"400 x 175 x 180"},
+								{"tipe":"  Light Truck 6 rd FE74 HD K","dimensi":"420 x 200 x 180"},
+								{"tipe":"  Light Truck 6 rd FE74 S K","dimensi":"460 x 200 x 195"},
+								{"tipe":"  Light Truck 6 rd 74 L K","dimensi":"570 x 200 x 195"}
+							]
+				},
+					{
+						"nama":"halfboxalluminium",
+						"judul":"Half Box Alluminium",
+						"gambar":"https://i.ibb.co/QQFYF5f/half-box-alluminium.jpg",
+						"id":4,
+						"deskripsi":"Truk dengan setengah box terbuat dari alluminium sehingga antikarat dan lebih ringan. Dengan ukuran bodi yang relatif kecil dan ringan cocok untuk mengantar produk anda hingga pelosok desa.",
+						"menu":
+							[
+								{"tipe":"  D.Granmax ","dimensi":"236 x 167 x 120"},
+								{"tipe":"  Colt L300","dimensi":"264 x 170 x 120"}
+							]
+				},
+					{
+						"nama":"dumptruk",
+						"judul":"Dump Truck",
+						"gambar":"https://i.ibb.co/1Xhf0Vf/dump-truck.jpg",
+						"id":5,
+						"deskripsi":"Truk dengan desain ukuran yang lebih besar dan lebih kuat siap membawa produk dengan ukuran yang lebih besar dan muatan yang lebih banyak kemanapun anda inginkan.",
+						"menu":
+							[
+								{"tipe":"  FE SHD-X HI GEAR","dimensi":"400 x 207 x 70"},
+								{"tipe":"  FUSO FN62F","dimensi":"600 X 250 X 100"},
+								{"tipe":"  FE74 HD K jumbo","dimensi":"420 x 195 x 150"},
+								{"tipe":"  FE74 HD K ","dimensi":"425 x 195 x 80"}
+							]
+				}
+			],
+	"Pelayanan": [
+					{
+						"nama":"pengecatan",
+						"judul":"Pengecatan",
+						"deskripsi":"Kami melayani pengecatan bagian body atau kabin produk karoseri anda secara presisi dan menyeluruh ",
+						"menu":
+							[
+								{"layanan":"Pengecatan L300 PU", "biaya":"Rp 4.500.000"},
+								{"layanan":"Pengecatan Cabin L300","biaya":"Rp 3.000.000"},
+								{"layanan":"Pengecatan Cabin Colt D","biaya":"Rp 3.000.000"}
+							],
+						"gambar":"https://i.ibb.co/s5CbLny/pengecatan.jpg",
+						"id":1
+					},
+					{
+						"nama":"pemotongan",
+						"judul":"Pemotongan Box",
+						"deskripsi":"Kami melayani pemotongan box atau bak produk karoseri anda secara presisi dari rapi",
+						"menu":
+							[
+								{"layanan":"Pemotongan bak FE71", "biaya":"Rp 2.500.000"},
+								{"layanan":"Pemotongan box FE71", "biaya":"Rp 3.000.000"}
+							],
+						"gambar":"https://i.ibb.co/qRFbCWp/pemotongan-box.jpg",
+						"id":2
+					},
+					{
+						"nama":"penambahanfungsi",
+						"judul":"Penambahan Fungsi",
+						"deskripsi":"Kami menambahkan fungsi pada produk karoseri anda sehingga sesuai dengan kebutuhan anda",
+						"menu": 
+							[
+								{"layanan":"Penambahan Pintu Samping Geser dengan lebar 80cm","biaya":"Rp 1.500.000"},
+								{"layanan":"Penambahan Pintu Samping Geser untuk Tronton dengan lebar 80cm","biaya":"Rp 3.000.000"},
+								{"layanan":"Penambahan Alluminium Rata dengan lebar 15cm","biaya":""},
+								{"layanan":"Penambahan Alluminium Standart dengan lebar 10cm","biaya":""},
+								{"layanan":"Pelapisan dinding dan atap bagian dalam box dengan triplek atau melamin","biaya":""},
+								{"layanan":"Pembuatan Kanopi","biaya":"Rp 2.000.000"}
+							],
+						"gambar":"https://i.ibb.co/QHP7FKd/penambahan-fungsi.jpg",
+						"id":3
+					}
+				]
+	}
